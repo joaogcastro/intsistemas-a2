@@ -1,0 +1,8 @@
+{
+  "require": {
+    "php-amqplib/php-amqplib": "^3.2"
+  },
+  "autoload": {
+    "files": ["rabbitMQPublisher.php"]
+  }
+}
